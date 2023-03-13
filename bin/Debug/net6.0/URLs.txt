@@ -1,0 +1,2 @@
+﻿https://data.europa.eu/api/hub/search/datasets/consolidated-list-of-persons-groups-and-entities-subject-to-eu-financial-sanctions
+https://scsanctions.un.org/resources/xml/en/consolidated.xml

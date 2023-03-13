@@ -1,0 +1,15 @@
+C:\Users\Maxim\RiderProjects\SDNDownloader\SDNDownloader\bin\Release\net6.0\SDNDownloader.exe
+C:\Users\Maxim\RiderProjects\SDNDownloader\SDNDownloader\bin\Release\net6.0\SDNDownloader.deps.json
+C:\Users\Maxim\RiderProjects\SDNDownloader\SDNDownloader\bin\Release\net6.0\SDNDownloader.runtimeconfig.json
+C:\Users\Maxim\RiderProjects\SDNDownloader\SDNDownloader\bin\Release\net6.0\SDNDownloader.dll
+C:\Users\Maxim\RiderProjects\SDNDownloader\SDNDownloader\bin\Release\net6.0\ref\SDNDownloader.dll
+C:\Users\Maxim\RiderProjects\SDNDownloader\SDNDownloader\bin\Release\net6.0\SDNDownloader.pdb
+C:\Users\Maxim\RiderProjects\SDNDownloader\SDNDownloader\obj\Release\net6.0\SDNDownloader.csproj.AssemblyReference.cache
+C:\Users\Maxim\RiderProjects\SDNDownloader\SDNDownloader\obj\Release\net6.0\SDNDownloader.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Maxim\RiderProjects\SDNDownloader\SDNDownloader\obj\Release\net6.0\SDNDownloader.AssemblyInfoInputs.cache
+C:\Users\Maxim\RiderProjects\SDNDownloader\SDNDownloader\obj\Release\net6.0\SDNDownloader.AssemblyInfo.cs
+C:\Users\Maxim\RiderProjects\SDNDownloader\SDNDownloader\obj\Release\net6.0\SDNDownloader.csproj.CoreCompileInputs.cache
+C:\Users\Maxim\RiderProjects\SDNDownloader\SDNDownloader\obj\Release\net6.0\SDNDownloader.dll
+C:\Users\Maxim\RiderProjects\SDNDownloader\SDNDownloader\obj\Release\net6.0\ref\SDNDownloader.dll
+C:\Users\Maxim\RiderProjects\SDNDownloader\SDNDownloader\obj\Release\net6.0\SDNDownloader.pdb
+C:\Users\Maxim\RiderProjects\SDNDownloader\SDNDownloader\obj\Release\net6.0\SDNDownloader.genruntimeconfig.cache
